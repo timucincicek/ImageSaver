@@ -1,5 +1,5 @@
 # ImageSaver
-In order to this application,you can store your images with their names.You can use this structure with your own applications.There's an SQLite Database to do all storing operations.There are two arraylists which keeps name and image connected to database by arrayadapter.With the help of arrayadapter,we can connect our elements from database to listView.
+In order to this application,you can store your images with their names.You can use this structure with your own applications.There's an SQLite Database to do all storing operations.There are two arraylists which keeps name and image connected to database by arrayadapter.With the help of arrayadapter,we can connect our elements from database to listView.Other details was explained near each line
 
 <b>Here how arrayadapter works</b>
 
